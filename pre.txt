@@ -3,3 +3,5 @@ nagoya
 osaka
 fukuoka
 shikoku
+sendai
+fukushima
