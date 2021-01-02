@@ -1,7 +1,7 @@
 tokyo
 nagoya
 osaka
-kyoto
+fukui
 fukuoka
 shikoku
 sendai
